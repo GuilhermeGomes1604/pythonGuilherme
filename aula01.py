@@ -1,0 +1,8 @@
+print("Atividade 1: \n")
+print("curso","de","python", sep="_", end="%"*2)
+print("\n*no senai rio claro")
+print("_-_-_logica","de","programação", sep="_-_-_")
+print("\nAtividade 2: \n")
+print("python","versao3", sep="@"*3, end="[]")
+print("\nlogica","de","programação", sep="#"*3)
+print("&uso","do","print", sep="&", end="()")
